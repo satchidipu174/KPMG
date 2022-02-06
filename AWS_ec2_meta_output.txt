@@ -1,0 +1,14 @@
+[
+    [
+        {
+            "Status": "running",
+            "Name": "satchi",
+            "InstanceID": "i-03e432e89425e2f61",
+            "ImageID": "ami-06ad6c264ce8dab0d",
+            "PublicIP": "18.191.214.40",
+            "KeyName": "Ohio_Latest_31122021",
+            "PrivateIP": "10.0.2.242",
+            "InstanceType": "t2.micro"
+        }
+    ]
+]
